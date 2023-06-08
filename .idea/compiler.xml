@@ -7,10 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="com.JDBC_108" />
+        <module name="team108_JDBC2" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="com.JDBC_108" target="11" />
-    </bytecodeTargetLevel>
   </component>
 </project>
